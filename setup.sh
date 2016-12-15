@@ -65,6 +65,7 @@ fi
 # LaTeX and displaying things
 sudo apt-get install texlive-full
 sudo apt-get install graphviz
+sudo apt-get install pandoc
 
 # git setup
 echo "Installing git..."
